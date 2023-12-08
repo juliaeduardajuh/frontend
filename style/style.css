@@ -1,0 +1,35 @@
+@media (min-width: 576px){
+    .principal{
+        background-color: red;
+    }
+}
+@media (max-width: 768px){
+    .principal{
+        background-color:blue
+    }
+}
+@media (max-width: 992px){
+    .principal{
+        background-color:green
+    }
+}
+@media (max-width: 1200px){
+    .principal{
+        background-color:grey
+    }
+}
+@media (max-width: 1400px){
+    .principal{
+        background-color:purple
+    }
+}
+
+
+
+@media (min-width: 576px){
+    .imagem{
+        background-image: url(https://images.unsplash.com/photo-1559494007-9f5847c49d94?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=387&q=80);
+    }
+}
+    
+  

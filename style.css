@@ -1,0 +1,8 @@
+.altura{
+    height: 350px;
+}
+.bg-custom-rosa{
+    background-image: url(/Bootstrap/doceria/bala-doce-doces-fundo-coloridos-banco-de-fotos_csp17672841.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
